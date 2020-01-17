@@ -1,0 +1,11 @@
+How is the web different than the internet?
+The internet connects participants while the web connects information.
+
+Briefly describe how the internet works.
+The internet is made up of a large number of interconnected networks. The internet is a wire that allows connected servers to communicate between each other. Clients are then added to the internet servers via an internet service provider. Whenever information is sent via the internet, it is broken down into packets and then reassembled at its destination. The information reaches the correct information by the assignment of IP addresses and routers. 
+
+What is a directory, and what is its relationship to files?
+A directory is a container (aka folder) that stores groups of files.
+
+Why is using a VCS beneficial?
+Using a VCS allows a developer to easily track changes, revert back if necessary, and share and collaborate with other parties.
