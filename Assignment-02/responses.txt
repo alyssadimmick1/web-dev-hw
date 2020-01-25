@@ -1,0 +1,11 @@
+Briefly describe one way how data travels on the internet.
+Wifi translates binary information into radio waves and then transmits them via radio signals to a router which then sends the information via the physical wire.
+
+What is the relationship between an IP address and the DNS?
+The Domain Name System corresponds a given website name to its IP address. A computer uses the DNS to locate the IP address for the user's desired website, which will enable the webpage to be shown.
+
+What is a cookie?
+A number that represents a small amount of information that is saved by the computer to access in the future.
+
+List the the three basic parts of a URL.
+Protocol, Domain, Paths
