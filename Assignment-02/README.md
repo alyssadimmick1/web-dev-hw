@@ -1,4 +1,4 @@
-# Assignment-01
+# Assignment-02
 ## Alyssa Dimmick
 
 I decided to take this course because I am getting a CAS in Business Media Design and felt it would be beneficial to gain knowledge in how to build a website. Also, my advisor let me enroll for this course in place of another lower-division course needed for the CAS so that I can fulfill my upper-division course requirement for my BA.
