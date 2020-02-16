@@ -1,0 +1,3 @@
+A document can only have one <head> and <body> element, but each of these include other elements that fit within that category. <head> elements tell the browser and processor information about the HTML document, such as the title, author, and publication date, while <body> elements include structural and semantic markup to relay data that is rendered by the browser and displayed on the user's computer.
+
+Structural markup is regarding the structure of a document and includes elements such as Headings, Paragraphs, Breaks, and Lists. Semantic markup is used to reinforce the meaning of the information by exhibiting items such as bold, strong, italics and more.
