@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	  <meta charset="UTF-8">
+    <meta name="description" content="Forms">
+    <meta name="author" content="Alyssa Dimmick">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title></title>
+  </head>
+
+  <body>
+    <h1>Contact Butterfly Herbs</h1>
+      <address> 232 N Higgins Ave, Missoula, MT 59802<br />
+          <br />Hours:<br />
+          Sunday	9AM–5:30PM<br />
+          Monday	7AM–7PM<br />
+          Tuesday	7AM–7PM<br />
+          Wednesday	7AM–7PM<br />
+          Thursday	7AM–7PM<br />
+          Friday	7AM–7PM<br />
+          Saturday	9AM–5:30PM<br /><br />
+        </address>
+
+        <style>
+          table, th, td {border: 1px solid black;}
+        </style>
+      <table>
+          <tr>
+              <th></th>
+              <th scope="col">Sunday</th>
+              <th scope="col">Monday</th>
+              <th scope="col">Tuesday</th>
+              <th scope="col">Wednesday</th>
+              <th scope="col">Thursday</th>
+              <th scope="col">Friday</th>
+              <th scope="col">Saturday</th>
+           </tr>
+           <tr>
+              <th scope="row">Open</th>
+              <td>9:00AM</td>
+              <td>7:00AM</td>
+              <td>7:00AM</td>
+              <td>7:00AM</td>
+              <td>7:00AM</td>
+              <td>7:00AM</td>
+              <td>9:00AM</td>
+           </tr>
+           <tr>
+              <th scope="row">Close</th>
+              <td>5:30PM</td>
+              <td>7::00PM</td>
+              <td>7::00PM</td>
+              <td>7::00PM</td>
+              <td>7::00PM</td>
+              <td>7::00PM</td>
+              <td>5:30PM</td>
+           </tr>
+      </table>
+        <br /><a href="mailto:alyssa.dimmick@umontana.edu">E-mail Butterfly Herbs!</a>
+        <br /><br />
+      <form action="http://www.example.com/subscribe.php" method="get">
+          What is your first name:
+          <input type="text" name="firstname" maxlength="10">
+          <br /><br />
+
+          What is your email address:
+          <input type="text" name="email">
+            <br /><br />
+
+          Would you like to recieve our monthly newsletter?
+          <br />
+          <input type="radio" name="emailyes" value="Yes" /> Yes
+            <br />
+            <input type="radio" name="emailno" value="No" /> No
+            <br /><br />
+
+          Enter your comments:
+          <br />
+          <textarea name="name" rows="10" cols="35"></textarea>
+
+          <br /><br />
+
+          <input type="button" name="" value="SUBMIT">
+      </form>
+  </body>
+</html>
