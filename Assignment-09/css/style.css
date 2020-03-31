@@ -1,0 +1,48 @@
+h1 {
+  color: #BC8F8F;
+}
+.square {
+  width: 33.3333%;
+  height: 700px;
+  text-align: center;
+}
+
+#red {
+  background-color: #DC143C;
+  position: absolute;
+  top: 0;
+  left: 0;
+
+}
+
+#black{
+  background-color: #000000;
+  position: absolute;
+  top: 0;
+  left: 33.33333%;
+}
+
+#gold {
+  background-color: #DAA520;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.text-1 {
+  background-color: white;
+  width: 400px;
+  position: absolute;
+  top: 25%;
+  right: 160%;
+  padding: 10px;
+}
+
+.text-2 {
+  background-color: white;
+  width: 400px;
+  position: absolute;
+  top: 150%;
+  left: 0;
+  padding: 10px;
+}
