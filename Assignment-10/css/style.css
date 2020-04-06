@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Playfair+Display+SC:ital@1&display=swap');
+h3 {
+font-family: 'Playfair Display SC', serif;
+  font-size: 35;
+}
+body {
+  background-color: rgb(213, 216, 220);
+font-family: 'Lora', serif;
+}
+.text {
+  background-color: white;
+  color: gray;
+  padding: 5px;
+  line-height: 2em;
+}
+p:first-of-type:first-letter {
+  font-size: 2em;
+}
+
+a{
+  background-color: rgb(253, 237, 236);
+  padding: 10px;
+}
+a:hover {
+  font-style: italic;
+}
