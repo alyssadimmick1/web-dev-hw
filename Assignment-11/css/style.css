@@ -1,38 +1,97 @@
-
+body{
+  font-size: 1.25em;
+  font-family: 'Source Serif Pro', serif;
+}
 .navigation{
-  width: 1500px;
-  background-color: #000;
-  height: 50px;
+  width: 200px;
+  background-color: mistyrose;
+  border-right: solid black;
+  height: 100%;
+
   position: fixed;
   top:0;
   left:0;
 }
+.navigation a {
+  text-decoration: none;
+  color: #000;
+}
 
 .main {
   background-color: #FFF;
-  margin-top: 60px;
-}
+  overflow: auto;
 
+  margin-left: 200px;
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
+}
+.main a {
+  text-decoration: none;
+  color: #000;
+}
 .banner {
   width: 100%;
-  height: 400px;
+  height: auto;
+  padding-bottom: 1em;
 }
 .logo{
-  background-color: gray;
+  background-color: black;
   width: 150px;
   height: 150px;
+  margin: auto;
 
-  border: ;
-  border-radius: 100%;
+  border: 5px solid white;
+
+  line-height: 150px;
+  color: #FFF;
+  text-transform: uppercase;
 }
+.logo:hover{
+  border-color: black;
+  color: mistyrose;
+}
+
 .site-info{
-
+  margin: 2em auto;
+  text-align: center;
+  font-size: 200%;
+}
+.site-info a:hover{
+  color: white;
 }
 
-.site-links{
+.site-links {
+    margin: 0 1.5em;
+}
+.site-links a {
+    text-decoration: none;
+    color: mistyrose;
+    background-color: black;
+
+    display: block;
+    margin: 1em;
+    padding-top: 25px;
+
+    border: 2px solid white;
+    width: 100px;
+    height: 50px;
+    text-align: center;
 
 }
-
+.site-links a:hover{
+  background-color: white;
+  color: black;
+}
 .sm-icons{
-
+  position: fixed;
+  top: 1em;
+  left: 925px;
+}
+.sm-icons a {
+  text-decoration: none;
+  color: #000;
+}
+.sm-icons a:hover {
+  font-weight: bold;
 }
