@@ -87,11 +87,15 @@ body{
   position: fixed;
   top: 1em;
   left: 925px;
+  margin-left: 1.5em;
+  width: 100%;
 }
 .sm-icons a {
   text-decoration: none;
   color: #000;
+  margin: .5em;
 }
 .sm-icons a:hover {
   font-weight: bold;
+
 }
