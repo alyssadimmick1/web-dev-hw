@@ -1,4 +1,5 @@
 Who was your imaginary client? How did they describe their site needs?
+
 My imaginary client is called "I run Missoula" and is a non-profit organization that holds marathons to raise money for charity.
 They described their site needs as a simple easy to understand layout with a dropdown menu that leads to sites for each type of race they organize.
 
