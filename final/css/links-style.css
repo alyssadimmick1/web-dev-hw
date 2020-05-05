@@ -1,0 +1,97 @@
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: whitesmoke;
+}
+
+/*Contact Page*/
+.contact {
+  text-decoration: none;
+  background-color: whitesmoke;
+  overflow: auto;
+  margin-left: 150px;
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
+  min-width: 6em;
+  font-size: 25;
+  font-weight: 150;
+}
+
+.contact a{
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  border: 2px solid white;
+  width: 7.5em;
+  height: 50px;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 25px;
+  font-weight: 150;
+  font-size: 20;
+}
+
+.contact a:hover{
+  background-color: lightgray;
+  color: black;
+}
+
+.contact #submit {
+  margin-top: 3em;
+  }
+
+/*About Page*/
+h1 {
+font-weight: 200;
+font-size: 60;
+}
+.about {
+  text-decoration: none;
+  background-color: whitesmoke;
+  overflow: auto;
+  margin-left: 150px;
+  padding-left: 150px;
+  padding-right: 200px;
+  text-align: center;
+  min-width: 6em;
+  font-size: 20;
+  font-weight: 150;
+}
+.about #title {
+  border-bottom: dotted black;
+}
+
+.about #paragraph {
+  padding-top:2em;
+}
+
+/*Services Page*/
+
+.services {
+  background-color: whitesmoke;
+  overflow: auto;
+  margin-left: 150px;
+  padding-left: 150px;
+  padding-right: 200px;
+  text-align: center;
+  min-width: 6em;
+  font-size: 40;
+  height: 100%;
+  font-weight: 150;
+}
+
+.services #title {
+  border-bottom: dotted black;
+}
+
+.services #paragraph {
+  padding-top:1em;
+}
+.services a {
+  text-decoration: none;
+  color: black;
+}
+
+.services a:hover {
+  text-decoration: underline;
+}
