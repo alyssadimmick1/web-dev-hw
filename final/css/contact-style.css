@@ -1,0 +1,15 @@
+.contact {
+  text-decoration: none;
+  background-color: #FFF;
+  overflow: auto;
+  margin-left: 200px;
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
+  min-width: 6em;
+}
+
+.contact a{
+  text-decoration: none;
+
+}
